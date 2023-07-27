@@ -7,4 +7,4 @@ After running, your result will be saved to output_image.ppm.
 
 Here's an example of what one  might look like: 
 
-![image] (./image.ppm)
+![image](./image.ppm)
