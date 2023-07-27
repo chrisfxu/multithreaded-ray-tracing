@@ -5,6 +5,8 @@ Implementation of a ray tracer in C++. This was made following Peter Shirley's b
 
 After running, your result will be saved to output_image.ppm. 
 
-Here's an example of what one  might look like: 
+Here's an example of a render might look like: 
 
 ![Demo](./demo.png)
+
+Play around and see how the multi-threading performs under different setups!
