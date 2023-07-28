@@ -9,4 +9,4 @@ Here's an example of a render might look like:
 
 ![Demo](./demo.png)
 
-Play around and see how the multi-threading performs under different setups!
+Play around and see how how renders perform under different setups!
